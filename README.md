@@ -37,7 +37,7 @@
     </div>
 
     <!-- Tool Containers -->
-    <div id="image-compressor" class="index.html-2-content">
+    <div id="image-compressor" class=tools-content">
       <h2>Image Compressor</h2>
       <input type="file" id="image-input" accept="image/*">
       <canvas id="preview-canvas"></canvas>
